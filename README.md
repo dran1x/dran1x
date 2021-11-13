@@ -6,4 +6,4 @@
 ### About
 I'm currently working on my community's code framework and testing around the Source Engine.
 
-![Profile Views](https://komarev.com/ghpvc/?dran1x&color=ff69b4&style=flat)
+![Profile views](https://gpvc.arturio.dev/dran1x)
