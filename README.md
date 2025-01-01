@@ -8,7 +8,7 @@ I am passionate about **GNU/Linux** and enjoy **writing code**.
 
 <br>
 
-Rust developer obsessed with efficiency and micro optimization. Currently, I'm learning about edge WebAssembly deployment. I'm always looking for ways to make my code and systems run faster and more efficiently.
+Rust developer obsessed with efficiency and micro optimization. Currently, I'm learning about WebAssembly edge deployment. I'm always looking for ways to make my code and systems run faster and more efficiently.
 
 I also enjoy a minimal life, prioritizing practicality above all, as I’m not pursuing minimalism for style or as an end goal, but to enable a healthier, more productive life.
 
