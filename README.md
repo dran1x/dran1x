@@ -15,49 +15,49 @@ I also enjoy a minimal life, prioritizing practicality above all, as I’m not p
 <table>
 	<tr>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/rust.svg" alt="Rust">
 			</a>
 			<br>Rust
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/python.svg" alt="Python">
 			</a>
 			<br>Python
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET">
 			</a>
 			<br>.NET
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/deno.svg" alt="Deno">
 			</a>
 			<br>Deno
 		</td>
 		<td align="center" width="96">
-		    <a href="#dranix-tech">
+		    <a href="#tech">
 		        <img src="https://simpleicons.org/icons/webassembly.svg" alt="WASM" style="width: 69px; height: 69px;">
 		    </a>
 		    <br>WebAssembly
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL">
 			</a>
 			<br>MySQL
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" style="width: 69px; height: 69px;">
 			</a>
 			<br>PostgreSQL
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/postman.svg" alt="Postman">
 			</a>
 			<br>Postman
@@ -65,49 +65,49 @@ I also enjoy a minimal life, prioritizing practicality above all, as I’m not p
 	</tr>
 	<tr>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/archlinux.svg" alt="Arch">
 			</a>
 			<br>Arch
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="AWS">
 			</a>
 			<br>AWS
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/cloudflare.svg" alt="Cloudflare">
 			</a>
 			<br>Cloudflare
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/docker.svg" alt="Docker">
 			</a>
 			<br>Docker
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/akamai.svg" alt="Akamai" style="width: 69px; height: 69px;">
 			</a>
 			<br>Akamai
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/arm.svg" alt="ARM">
 			</a>
 			<br>ARM
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/sourceengine.svg" alt="Source Engine" style="width: 69px; height: 69px;">
 			</a>
 			<br>Source
 		</td>
 		<td align="center" width="96">
-			<a href="#dranix-tech">
+			<a href="#tech">
 				<img src="https://simpleicons.org/icons/gnubash.svg" alt="Bash">
 			</a>
 			<br>Bash
