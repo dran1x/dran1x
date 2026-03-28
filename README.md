@@ -72,7 +72,7 @@ I also enjoy a minimal life, prioritizing practicality above all, as I’m not p
 		</td>
 		<td align="center" width="96">
 			<a href="#tech">
-				<img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="AWS">
+				<img src="img/amazonwebservices.svg" alt="AWS">
 			</a>
 			<br>AWS
 		</td>
